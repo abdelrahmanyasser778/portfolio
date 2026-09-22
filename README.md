@@ -1,4 +1,4 @@
-# Mahmoud Akram Portfolio
+# Abdelrahman Yasser Portfolio
 
 Premium purple neon portfolio built as a single Next.js App Router application with Prisma and Supabase Postgres.
 
@@ -13,7 +13,6 @@ The repository still contains `apps/api` from the earlier NestJS version, but th
 ## Local Setup
 
 1. Install dependencies:
-
 ```bash
 npm install
 ```
